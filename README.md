@@ -1,17 +1,17 @@
-# Algeo01-21056
+# Matrix Calculator
 
 <p>&nbsp;</p>
 
 Matrix Calculator Written in Java language
 
-Fitur-fitur: 
+Fitur:  
 
-- penjumlahan dan perkalian matrix
-- mencari inverse matrix
-- mencari determinan matrix
-- melakukan regresi linear
-- melakukan interpolasi linear dan interpolasi bikubik
-- memecahkan sistem persamaan linear multivariabel
+- Penjumlahan dan perkalian matrix
+- Mencari inverse matrix
+- Mencari determinan matrix
+- Melakukan regresi linear
+- Melakukan interpolasi linear dan interpolasi bikubik
+- Memecahkan sistem persamaan linear multivariabel
 
 ## File Structure
 
